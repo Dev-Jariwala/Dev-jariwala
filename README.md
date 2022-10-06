@@ -13,9 +13,9 @@
 
 - 👯 My First Responsive Website [Tin-dog](https://dev-jariwala.github.io/tindog/)
 
-- 🤝 My Personal Website [Dev Jariwala](https://dev-jariwala.github.io/Dev-jariwala/)
+- 🤝 My Personal Website [Dev Jariwala](https://dev-jariwala.github.io/MyPortfolio/)
 
-- 👨‍💻 All of my projects are available at [https://dev-jariwala.github.io/Dev-Jariwala-Profile/](https://dev-jariwala.github.io/Dev-Jariwala-Profile/)
+- 👨‍💻 All of my projects are available at [Dev Jariwala](https://dev-jariwala.github.io/MyPortfolio/)
 
 - 🌱 I’m currently learning **Javascript and React.js**
 
